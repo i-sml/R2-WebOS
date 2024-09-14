@@ -490,7 +490,7 @@ export default {
   position: sticky;
   top: 0;
   padding: 8px;
-  background-color: white;
+  background-color: #FFBB11;
   display: flex;
 }
 
