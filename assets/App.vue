@@ -505,7 +505,7 @@ export default {
 }
 
 .menu-button > button:hover {
-  background-color: whitesmoke;
+  background-color: rgb(0, 0, 0, 0.2);
 }
 
 .menu {
